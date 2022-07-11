@@ -1,0 +1,34 @@
+(ctr old)
+Run time(minutes) with drop: 1.0 --- 14 ---888
+Run time(minutes) with drop: 0.9 --- 64 ---3891
+Run time(minutes) with drop: 0.8 --- 120 ---7245
+Run time(minutes) with drop: 0.7 --- 159 ---9581
+Run time(minutes) with drop: 0.6 --- 216 ---12960
+Run time(minutes) with drop: 0.5 --- 256 ---15394
+Run time(minutes) with drop: 0.4 --- 305 ---18348
+Run time(minutes) with drop: 0.3 --- 359 ---21552
+Run time(minutes) with drop: 0.2 --- 399 ---23991
+Run time(minutes) with drop: 0.1 --- 441 ---26500
+Run time(minutes) with drop: 0.0 --- 510 ---30629
+(ctr old in second times)Run time(minutes) with drop: 1.0 --- 14 ---866
+Run time(minutes) with drop: 0.9 --- 63 ---3798
+Run time(minutes) with drop: 0.8 --- 114 ---6859
+Run time(minutes) with drop: 0.7 --- 156 ---9406
+Run time(minutes) with drop: 0.6 --- 217 ---13046
+Run time(minutes) with drop: 0.5 --- 256 ---15381
+Run time(minutes) with drop: 0.4 --- 323 ---19382
+Run time(minutes) with drop: 0.3 --- 352 ---21152
+Run time(minutes) with drop: 0.2 --- 399 ---23945
+Run time(minutes) with drop: 0.1 --- 453 ---27188
+Run time(minutes) with drop: 0.0 --- 505 ---30305
+Run time(minutes) with drop: 1.0 --- 14 ---861
+Run time(minutes) with drop: 0.9 --- 63 ---3822
+Run time(minutes) with drop: 0.8 --- 110 ---6658
+Run time(minutes) with drop: 0.7 --- 161 ---9696
+Run time(minutes) with drop: 0.6 --- 226 ---13572
+Run time(minutes) with drop: 0.5 --- 282 ---16959
+Run time(minutes) with drop: 0.4 --- 297 ---17867
+Run time(minutes) with drop: 0.3 --- 348 ---20886
+Run time(minutes) with drop: 0.2 --- 438 ---26328
+Run time(minutes) with drop: 0.1 --- 455 ---27307
+Run time(minutes) with drop: 0.0 --- 585 ---35151

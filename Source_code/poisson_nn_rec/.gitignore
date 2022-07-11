@@ -1,0 +1,6 @@
+*.pyc
+.idea
+*.zip
+qq.py
+qq_tensor_numpy.py
+results

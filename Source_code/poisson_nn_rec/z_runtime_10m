@@ -1,0 +1,12 @@
+(ctr old)
+Run time(minutes) with drop: 1.0 --- 7 ---431
+Run time(minutes) with drop: 0.9 --- 32 ---1972
+Run time(minutes) with drop: 0.8 --- 56 ---3388
+Run time(minutes) with drop: 0.7 --- 82 ---4957
+Run time(minutes) with drop: 0.6 --- 105 ---6310
+Run time(minutes) with drop: 0.5 --- 132 ---7972
+Run time(minutes) with drop: 0.4 --- 154 ---9274
+Run time(minutes) with drop: 0.3 --- 176 ---10569
+Run time(minutes) with drop: 0.2 --- 203 ---12184
+Run time(minutes) with drop: 0.1 --- 224 ---13472
+Run time(minutes) with drop: 0.0 --- 261 ---15687
